@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **React, Express, MongoDB, Node, JavaScript**
 
-- 🍀 I'm good at **Responsive Design**
+- 🍀 I'm good at **Responsive Design, DOM Manipulation**
 
 - ⚡ My Favorite Quote **The more I learn, the more I realize how much I don't know.**
 
