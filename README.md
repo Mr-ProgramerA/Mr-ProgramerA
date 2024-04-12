@@ -2,7 +2,7 @@
 <h3 align="center">MERN stack developer passionate about crafting robust web applications.</h3>
 <h4 align="center" >🛠️ Skilled in MongoDB, Express.js, React, and Node.js. #innovation #creativity</h4>
 
-<img align="right" src="https://github.com/Mr-ProgramerA/Mr-ProgramerA/assets/65912700/2867ed33-ebee-4051-9c93-c63b2895e564" alt="msg1425715477-25853" style="width: 180px;">
+<img align="right" src="https://github.com/Mr-ProgramerA/Mr-ProgramerA/assets/65912700/2867ed33-ebee-4051-9c93-c63b2895e564" alt="msg1425715477-25853" style="width: 35%;">
 
 - 🔭 My Recent Project [RealEstate360](https://realestate360.onrender.com/)
 
